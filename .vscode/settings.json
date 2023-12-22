@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Visual Studio Code\\Java Programming\\JarFiles\\junit4.jar",
+        "j:\\Visual Studio Code\\Java Programming\\JarFiles\\junit4.jar",
+        "j:\\Visual Studio Code\\Java Programming\\JarFiles\\junit-4.13.jar",
+        "j:\\Visual Studio Code\\Java Programming\\JarFiles\\junit4-1.26.147.jar"
+    ],
+    "java.project.sourcePaths": [
+        "tests",
+        "src"
+    ]
+}
